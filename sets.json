@@ -1,5 +1,6 @@
 [
   {
+    "name": "Example Set",
     "artist": "Example Artist",
     "venue": "Example Venue",
     "videoId": "xyzXYZ123456",
@@ -11,6 +12,7 @@
     ]
   },
   {
+    "name": "Example Set",
     "artist": "Example Artist",
     "venue": "Example Venue",
     "videoId": "xyzXYZ123456",
