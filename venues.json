@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Example Venue",
+    "city": "Helsinki",
+    "country": "Finland",
+    "capacity": "200",
+    "overview": "Lorem ipsum dolor sit amet",
+    "links": {
+      "homepage": "http://google.com/",
+      "facebook": "http://facebook.com/",
+      "twitter": "http://twitter.com/"
+    }
+  },
+  {
+    "name": "Example Venue",
+    "city": "Helsinki",
+    "country": "Finland",
+    "capacity": "200",
+    "overview": "Lorem ipsum dolor sit amet",
+    "links": {
+      "homepage": "http://google.com/",
+      "facebook": "http://facebook.com/",
+      "twitter": "http://twitter.com/"
+    }
+  }
+]
