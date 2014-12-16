@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Example",
+    "fullname": "John Doe",
+    "city": "Helsinki",
+    "country": "Finland",
+    "genres": ["Techno", "Drum & Bass"],
+    "bio": "Lorem ipsum dolor sit amet",
+    "links": {
+      "homepage": "http://google.com",
+      "facebook": "",
+      "twitter": ""
+    }
+  },
+  {
+    "name": "Example",
+    "fullname": "John Doe",
+    "city": "Helsinki",
+    "country": "Finland",
+    "genres": ["Techno", "Drum & Bass"],
+    "bio": "Lorem ipsum dolor sit amet",
+    "links": {
+      "homepage": "http://google.com",
+      "facebook": "",
+      "twitter": ""
+    }
+  }
+]
