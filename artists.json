@@ -1,28 +1,207 @@
 [
   {
-    "name": "Example",
-    "fullname": "John Doe",
-    "city": "Helsinki",
-    "country": "Finland",
-    "genres": ["Techno", "Drum & Bass"],
-    "bio": "Lorem ipsum dolor sit amet",
+    "name": "Disclosure",
+    "fullname": "",
+    "city": "",
+    "country": "",
+    "genres": ["UK Garage", "House", "Deep House", "Electronic Dance Music", "Pop"],
+    "labels": ["Moshi Moshi", "Transparent", "Make Mine", "Greco-Roman", "PMR", "Island", "Cherrytree", "Interscope"],
+    "bio": "",
     "links": {
-      "homepage": "http://google.com",
-      "facebook": "",
-      "twitter": ""
+      "homepage": "http://disclosureofficial.com",
+      "facebook": "https://www.facebook.com/disclosureuk",
+      "twitter": "https://twitter.com/disclosure",
+      "soundcloud": "https://soundcloud.com/disclosuremusic",
+      "wiki": "http://en.wikipedia.org/wiki/Disclosure_(band)",
+      "instagram": "http://instagram.com/disclosure",
+      "youtube": "http://www.youtube.com/user/OfficialDisclosure"
     }
   },
   {
-    "name": "Example",
-    "fullname": "John Doe",
-    "city": "Helsinki",
-    "country": "Finland",
-    "genres": ["Techno", "Drum & Bass"],
-    "bio": "Lorem ipsum dolor sit amet",
+    "name": "",
+    "fullname": "",
+    "city": "",
+    "country": "",
+    "genres": ["", ""],
+    "bio": "",
     "links": {
-      "homepage": "http://google.com",
+      "homepage": "",
       "facebook": "",
-      "twitter": ""
+      "twitter": "",
+      "soundcloud": "",
+      "wiki": "",
+      "instagram": "",
+      "youtube": ""
+    }
+  },
+  {
+    "name": "",
+    "fullname": "",
+    "city": "",
+    "country": "",
+    "genres": ["", ""],
+    "bio": "",
+    "links": {
+      "homepage": "",
+      "facebook": "",
+      "twitter": "",
+      "soundcloud": "",
+      "wiki": "",
+      "instagram": "",
+      "youtube": ""
+    }
+  },
+  {
+    "name": "",
+    "fullname": "",
+    "city": "",
+    "country": "",
+    "genres": ["", ""],
+    "bio": "",
+    "links": {
+      "homepage": "",
+      "facebook": "",
+      "twitter": "",
+      "soundcloud": "",
+      "wiki": "",
+      "instagram": "",
+      "youtube": ""
+    }
+  },
+  {
+    "name": "",
+    "fullname": "",
+    "city": "",
+    "country": "",
+    "genres": ["", ""],
+    "bio": "",
+    "links": {
+      "homepage": "",
+      "facebook": "",
+      "twitter": "",
+      "soundcloud": "",
+      "wiki": "",
+      "instagram": "",
+      "youtube": ""
+    }
+  },
+  {
+    "name": "",
+    "fullname": "",
+    "city": "",
+    "country": "",
+    "genres": ["", ""],
+    "bio": "",
+    "links": {
+      "homepage": "",
+      "facebook": "",
+      "twitter": "",
+      "soundcloud": "",
+      "wiki": "",
+      "instagram": "",
+      "youtube": ""
+    }
+  },
+  {
+    "name": "",
+    "fullname": "",
+    "city": "",
+    "country": "",
+    "genres": ["", ""],
+    "bio": "",
+    "links": {
+      "homepage": "",
+      "facebook": "",
+      "twitter": "",
+      "soundcloud": "",
+      "wiki": "",
+      "instagram": "",
+      "youtube": ""
+    }
+  },
+  {
+    "name": "",
+    "fullname": "",
+    "city": "",
+    "country": "",
+    "genres": ["", ""],
+    "bio": "",
+    "links": {
+      "homepage": "",
+      "facebook": "",
+      "twitter": "",
+      "soundcloud": "",
+      "wiki": "",
+      "instagram": "",
+      "youtube": ""
+    }
+  },
+  {
+    "name": "",
+    "fullname": "",
+    "city": "",
+    "country": "",
+    "genres": ["", ""],
+    "bio": "",
+    "links": {
+      "homepage": "",
+      "facebook": "",
+      "twitter": "",
+      "soundcloud": "",
+      "wiki": "",
+      "instagram": "",
+      "youtube": ""
+    }
+  },
+  {
+    "name": "",
+    "fullname": "",
+    "city": "",
+    "country": "",
+    "genres": ["", ""],
+    "bio": "",
+    "links": {
+      "homepage": "",
+      "facebook": "",
+      "twitter": "",
+      "soundcloud": "",
+      "wiki": "",
+      "instagram": "",
+      "youtube": ""
+    }
+  },
+  {
+    "name": "",
+    "fullname": "",
+    "city": "",
+    "country": "",
+    "genres": ["", ""],
+    "bio": "",
+    "links": {
+      "homepage": "",
+      "facebook": "",
+      "twitter": "",
+      "soundcloud": "",
+      "wiki": "",
+      "instagram": "",
+      "youtube": ""
+    }
+  },
+  {
+    "name": "",
+    "fullname": "",
+    "city": "",
+    "country": "",
+    "genres": ["", ""],
+    "bio": "",
+    "links": {
+      "homepage": "",
+      "facebook": "",
+      "twitter": "",
+      "soundcloud": "",
+      "wiki": "",
+      "instagram": "",
+      "youtube": ""
     }
   }
 ]

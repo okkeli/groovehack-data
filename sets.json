@@ -1,26 +1,210 @@
 [
   {
-    "name": "Example Set",
-    "artist": "Example Artist",
-    "venue": "Example Venue",
-    "videoId": "xyzXYZ123456",
-    "genres": ["Techno", "Drum & Bass"],
-    "date": "12.12.2014",
+    "id": 1,
+    "name": "Disclosure FULL SET - Pitchfork Music Festival Paris",
+    "artist": "Disclosure",
+    "venue": "",
+    "youtube": "0dCi0f8esIk",
+    "genres": ["", ""],
+    "date": "2013",
     "tracks": [
-      { "title": "Song", "artist": "Artist", "startsAt": 0, "links": { "soundcloud": "http://soundcloud.com/" }, "free": true },
-      { "title": "Song", "artist": "Artist", "startsAt": 220, "links": { "beatport": "http://beatport.com", "itunes": "http://itunes.com" }, "free": false }
+      { "title": "", "artist": "", "startsAt": 0, "links": { "soundcloud": "", "beatport": "", "itunes": "" }, "free": false },
+      { "title": "", "artist": "", "startsAt": 0, "links": { "soundcloud": "", "beatport": "", "itunes": "" }, "free": false }
     ]
   },
   {
-    "name": "Example Set",
-    "artist": "Example Artist",
-    "venue": "Example Venue",
-    "videoId": "xyzXYZ123456",
-    "genres": ["Techno", "Drum & Bass"],
-    "date": "12.12.2014",
+    "id": 2,
+    "name": "Disclosure 35 min Boiler Room DJ Set",
+    "artist": "Disclosure",
+    "venue": "Boiler Room London",
+    "videoId": "8CWKC9b0Oko",
+    "genres": ["", ""],
+    "date": "29 June 2012",
     "tracks": [
-      { "title": "Song", "artist": "Artist", "startsAt": 0, "links": { "soundcloud": "http://soundcloud.com/" }, "free": true },
-      { "title": "Song", "artist": "Artist", "startsAt": 220, "links": { "beatport": "http://beatport.com", "itunes": "http://itunes.com" }, "free": false }
+      { "title": "", "artist": "", "startsAt": 0, "links": { "soundcloud": "", "beatport": "", "itunes": "" }, "free": false },
+      { "title": "", "artist": "", "startsAt": 0, "links": { "soundcloud": "", "beatport": "", "itunes": "" }, "free": false }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Disclosure DJ set in the Mixmag Lab",
+    "artist": "Disclosure",
+    "venue": "MixMag Lab",
+    "videoId": "mTAhk7FXb-I",
+    "genres": ["", ""],
+    "date": "2012",
+    "tracks": [
+      { "title": "", "artist": "", "startsAt": 0, "links": { "soundcloud": "", "beatport": "", "itunes": "" }, "free": false },
+      { "title": "", "artist": "", "startsAt": 0, "links": { "soundcloud": "", "beatport": "", "itunes": "" }, "free": false }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Kaytranada Boiler Room Montreal DJ Set",
+    "artist": "Kaytranada",
+    "venue": "Boiler Room Montreal",
+    "videoId": "-5EQIiabJvk",
+    "genres": ["", ""],
+    "date": "27 November 2013",
+    "tracks": [
+      { "title": "", "artist": "", "startsAt": 0, "links": { "soundcloud": "", "beatport": "", "itunes": "" }, "free": false },
+      { "title": "", "artist": "", "startsAt": 0, "links": { "soundcloud": "", "beatport": "", "itunes": "" }, "free": false }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Kaytranada Boiler Room NYC DJ Set",
+    "artist": "Kaytranada",
+    "venue": "Boiler Room New York",
+    "videoId": "xvG4IJ5SMNI",
+    "genres": ["", ""],
+    "date": "10 September 2013",
+    "tracks": [
+      { "title": "", "artist": "", "startsAt": 0, "links": { "soundcloud": "", "beatport": "", "itunes": "" }, "free": false },
+      { "title": "", "artist": "", "startsAt": 0, "links": { "soundcloud": "", "beatport": "", "itunes": "" }, "free": false }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Kaytranada Boiler Room Los Angeles DJ Set",
+    "artist": "Kaytranada",
+    "venue": "Boiler Room Los Angeles",
+    "videoId": "u_VlLp-BA7E",
+    "genres": ["", ""],
+    "date": "04 September 2013",
+    "tracks": [
+      { "title": "", "artist": "", "startsAt": 0, "links": { "soundcloud": "", "beatport": "", "itunes": "" }, "free": false },
+      { "title": "", "artist": "", "startsAt": 0, "links": { "soundcloud": "", "beatport": "", "itunes": "" }, "free": false }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "KAYTRANADA in Mixmag's Lab: trap to disco to electro & hip hop set",
+    "artist": "Kaytranada",
+    "venue": "MixMag Lab",
+    "videoId": "d3E7d_2dPo8",
+    "genres": ["", ""],
+    "date": "04 February 2014",
+    "tracks": [
+      { "title": "", "artist": "", "startsAt": 0, "links": { "soundcloud": "", "beatport": "", "itunes": "" }, "free": false },
+      { "title": "", "artist": "", "startsAt": 0, "links": { "soundcloud": "", "beatport": "", "itunes": "" }, "free": false }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "KAYTRANADA - DJ set at Mixmag Live",
+    "artist": "Kaytranada",
+    "venue": "MixMag Live (Village Underground London)",
+    "videoId": "JjuyV5TEKiI",
+    "genres": ["", ""],
+    "date": "25 October 2014",
+    "tracks": [
+      { "title": "", "artist": "", "startsAt": 0, "links": { "soundcloud": "", "beatport": "", "itunes": "" }, "free": false },
+      { "title": "", "artist": "", "startsAt": 0, "links": { "soundcloud": "", "beatport": "", "itunes": "" }, "free": false }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "HEIDI jackin house DJ set @ Mixmag Live",
+    "artist": "Heidi",
+    "venue": "MixMag Live",
+    "videoId": "RKdwfDe_BBQ",
+    "genres": ["", ""],
+    "date": "2014",
+    "tracks": [
+      { "title": "", "artist": "", "startsAt": 0, "links": { "soundcloud": "", "beatport": "", "itunes": "" }, "free": false },
+      { "title": "", "artist": "", "startsAt": 0, "links": { "soundcloud": "", "beatport": "", "itunes": "" }, "free": false }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Heidi Boiler Room DJ Set",
+    "artist": "Heidi",
+    "venue": "Boiler Room London",
+    "videoId": "lsGwBnLWi4o",
+    "genres": ["", ""],
+    "date": "11 June 2013",
+    "tracks": [
+      { "title": "", "artist": "", "startsAt": 0, "links": { "soundcloud": "", "beatport": "", "itunes": "" }, "free": false },
+      { "title": "", "artist": "", "startsAt": 0, "links": { "soundcloud": "", "beatport": "", "itunes": "" }, "free": false }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Heidi 50 min Boiler Room DJ Set at Warehouse Project",
+    "artist": "Heidi",
+    "venue": "Boiler Room London",
+    "videoId": "YIUbd0YkEtY",
+    "genres": ["", ""],
+    "date": "10 October 2012",
+    "tracks": [
+      { "title": "", "artist": "", "startsAt": 0, "links": { "soundcloud": "", "beatport": "", "itunes": "" }, "free": false },
+      { "title": "", "artist": "", "startsAt": 0, "links": { "soundcloud": "", "beatport": "", "itunes": "" }, "free": false }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Carl Cox Boiler Room Ibiza Villa Takeovers DJ Set",
+    "artist": "Carl Cox",
+    "venue": "Boiler Room Ibiza Villa Takeovers ",
+    "videoId": "vy-k0FopsmY",
+    "genres": ["", ""],
+    "date": "21 August 2013",
+    "tracks": [
+      { "title": "", "artist": "", "startsAt": 0, "links": { "soundcloud": "", "beatport": "", "itunes": "" }, "free": false },
+      { "title": "", "artist": "", "startsAt": 0, "links": { "soundcloud": "", "beatport": "", "itunes": "" }, "free": false }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Jamie Jones 45 min Boiler Room DJ Set",
+    "artist": "Jamie Jones",
+    "venue": "Boiler Room London",
+    "videoId": "dNsTb2_KeRE",
+    "genres": ["", ""],
+    "date": "31 October 2012",
+    "tracks": [
+      { "title": "", "artist": "", "startsAt": 0, "links": { "soundcloud": "", "beatport": "", "itunes": "" }, "free": false },
+      { "title": "", "artist": "", "startsAt": 0, "links": { "soundcloud": "", "beatport": "", "itunes": "" }, "free": false }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Jamie Jones Boiler Room Ibiza Villa Takeovers DJ Set",
+    "artist": "Jamie Jones",
+    "venue": "Boiler Room Villa Takeovers Ibiza ",
+    "videoId": "AGdA7cmSkFk",
+    "genres": ["", ""],
+    "date": "13 August 2013",
+    "tracks": [
+      { "title": "", "artist": "", "startsAt": 0, "links": { "soundcloud": "", "beatport": "", "itunes": "" }, "free": false },
+      { "title": "", "artist": "", "startsAt": 0, "links": { "soundcloud": "", "beatport": "", "itunes": "" }, "free": false }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Frankie Knuckles Boiler Room NYC DJ Set",
+    "artist": "Frankie Knuckles",
+    "venue": "Boiler Room New York",
+    "videoId": "644UU55eyzk",
+    "genres": ["", ""],
+    "date": "12 May 2013",
+    "tracks": [
+      { "title": "", "artist": "", "startsAt": 0, "links": { "soundcloud": "", "beatport": "", "itunes": "" }, "free": false },
+      { "title": "", "artist": "", "startsAt": 0, "links": { "soundcloud": "", "beatport": "", "itunes": "" }, "free": false }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Frankie Knuckles Boiler Room DJ Set",
+    "artist": "Frankie Knuckles",
+    "venue": "Boiler Room London",
+    "videoId": "EanuiNxcVHk",
+    "genres": ["", ""],
+    "date": "18 September 2013",
+    "tracks": [
+      { "title": "", "artist": "", "startsAt": 0, "links": { "soundcloud": "", "beatport": "", "itunes": "" }, "free": false },
+      { "title": "", "artist": "", "startsAt": 0, "links": { "soundcloud": "", "beatport": "", "itunes": "" }, "free": false }
     ]
   }
 ]
