@@ -1,0 +1,24 @@
+[
+  {
+    "artist": "Example Artist",
+    "venue": "Example Venue",
+    "videoId": "xyzXYZ123456",
+    "genres": ["Techno", "Drum & Bass"],
+    "date": "12.12.2014",
+    "tracks": [
+      { "title": "Song", "artist": "Artist", "startsAt": 0, "links": { "soundcloud": "http://soundcloud.com/" }, "free": true },
+      { "title": "Song", "artist": "Artist", "startsAt": 220, "links": { "beatport": "http://beatport.com", "itunes": "http://itunes.com" }, "free": false }
+    ]
+  },
+  {
+    "artist": "Example Artist",
+    "venue": "Example Venue",
+    "videoId": "xyzXYZ123456",
+    "genres": ["Techno", "Drum & Bass"],
+    "date": "12.12.2014",
+    "tracks": [
+      { "title": "Song", "artist": "Artist", "startsAt": 0, "links": { "soundcloud": "http://soundcloud.com/" }, "free": true },
+      { "title": "Song", "artist": "Artist", "startsAt": 220, "links": { "beatport": "http://beatport.com", "itunes": "http://itunes.com" }, "free": false }
+    ]
+  }
+]
